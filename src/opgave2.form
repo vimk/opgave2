@@ -55,7 +55,7 @@
   <SubComponents>
     <Component class="javax.swing.JButton" name="jButton1">
       <Properties>
-        <Property name="text" type="java.lang.String" value="add to sum"/>
+        <Property name="text" type="java.lang.String" value="Add to sum"/>
         <Property name="toolTipText" type="java.lang.String" value=""/>
       </Properties>
       <Events>
